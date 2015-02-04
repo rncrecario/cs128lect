@@ -15,8 +15,9 @@ These are the **people** whom we have collaborated:
 ##Collaborators
 These are the **people** whom we have collaborated
 <<<<<<< HEAD
-*Jaezelle Inocencio*
 *Camille Libiano*
+*Jaezelle Inocencio*
+
 =======
 <<<<<<< HEAD
 1. **Clark Adrian Adalia**
