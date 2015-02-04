@@ -1,0 +1,5 @@
+<?php
+
+	file by jjsinang
+
+?>
