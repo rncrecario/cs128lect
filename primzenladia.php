@@ -1,0 +1,4 @@
+<?php
+	SAMPLE FILE
+	HELLOO !
+ ?>
