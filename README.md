@@ -1,10 +1,9 @@
-#CMSC 128
+##CMSC 128
 
-This is a sample markdown file for CMSC 128
+This is a sample *markdown* _file_ for * **CMSC 128** *
 *Note: This is so much fun! I know right!
 
 ##Collaborators
 These are the **people** whom we have collaborated
-1. Reg Recario
-2. Reg Recario
-3. Reg Recario
+* #JJ SINANG
+* Reg Recario
