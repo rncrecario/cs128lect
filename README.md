@@ -19,8 +19,8 @@ Note: We are trying our best to learn it asap.
 ##Developers
 The following are the developers of this project:
 
-	*Erica Mae Yeban
-	*Erica Mae Yeban
-	*Erica Mae Yeban
+	Erica Mae Yeban
+	Clark Adrian Adalia
+	No one
 
 >>>>>>> bdedd8039da5704e1e6a96c6a6e7b4eecf63d459
