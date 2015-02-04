@@ -1,4 +1,10 @@
-cs128lect
-=========
+#CMSC 128
 
-cs128 lecture
+This is a sample markdown file for CMSC 128
+*Note: This is so much fun! I know right!
+
+##Collaborators
+These are the **people** whom we have collaborated
+1. Reg Recario
+2. Reg Recario
+3. Reg Recario
