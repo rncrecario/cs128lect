@@ -37,5 +37,9 @@ These are the **people** whom we have collaborated
 
 
 *ITALICIZED DAW
+<<<<<<< HEAD
 >>>>>>> e1af24fac69415733a61b159a701ee43cca61a8a
 >>>>>>> c57be6012273346df84d1b4071fa69883e22d3d1
+=======
+>>>>>>> NO WAY
+>>>>>>> a7b0cae0644d49c346357b30c5678bf606eb6bfd
