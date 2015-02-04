@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cmsc128ab5l
 Exercise Material for CMSC128 AB5L for AY2014-2015
 
@@ -8,6 +9,6 @@ This README file presents what how to produce a markdown file.
 ## Developers
 The following are the developers of this project:
 
-* Member 1
-* Member 2
-* Member n
+* Erica Mae Yeban
+* Clark Adrian Adalia
+
