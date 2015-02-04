@@ -44,7 +44,7 @@ These are the **people** whom we have collaborated:
 
 ##Collaborators
 These are the **people** whom we have collaborated
-<<<<<<< HEAD
+
 1. Reg Recario
 2. **Clark Adrian Adalia**
 3. **Adrian Luna**
