@@ -5,6 +5,9 @@ This is a sample markdown file for CMSC 128
 
 ##Collaborators
 These are the **people** whom we have collaborated
-1. Reg Recario
-2. Reg Recario
-3. Reg Recario
+1. **Erica Mae Yeban**
+2. *hakjshdkjnaskjndcxkjas*
+3. ##ANONG NANGYARE?
+
+
+*ITALICIZED DAW
