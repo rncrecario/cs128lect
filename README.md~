@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # CMSC 128 Project - Learning Git
 This README file presents what how to produce a markdown file.
 Note: We are trying our best to learn it asap.
@@ -67,3 +68,15 @@ These are the **people** whom we have collaborated
 >>>>>>> NO WAY
 >>>>>>> a7b0cae0644d49c346357b30c5678bf606eb6bfd
 >>>>>>> 55aa90f4a480136c19dcf0ff2feb6a2732ada817
+=======
+# CMSC 128 Project - Learning Git
+This README file presents what how to produce a markdown file.
+*Note: We are trying our best to learn it asap.*
+
+## Developers
+The following are the developers of this project:
+
+* Member 1
+* Member 2
+* Member n
+>>>>>>> 33dcad97a330c8212f5c25f63dcbcdc5e8d4a3a0
