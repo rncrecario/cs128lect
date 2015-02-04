@@ -14,7 +14,16 @@ These are the **people** whom we have collaborated:
 
 ##Collaborators
 These are the **people** whom we have collaborated
+<<<<<<< HEAD
 1. **Clark Adrian Adalia**
 2. *Adrian Luna*
 3. __Cal Adalia__ 
 >>>>>>> a42c072a178b31399fb877f46be7d6528f7c6d67
+=======
+1. **Erica Mae Yeban**
+2. *hakjshdkjnaskjndcxkjas*
+3. ##ANONG NANGYARE?
+
+
+*ITALICIZED DAW
+>>>>>>> e1af24fac69415733a61b159a701ee43cca61a8a
