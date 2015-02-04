@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b34685426b472993c37ab5db044930fe46a8cdf8
 # CMSC 128 Project - Learning Git
 This README file presents what how to produce a markdown file.
 Note: We are trying our best to learn it asap.
@@ -9,6 +12,7 @@ The following are the developers of ths project:
 * Member 1 
 * Member 2
 * Member 3
+<<<<<<< HEAD
 =======
 =======
 
@@ -76,3 +80,5 @@ https://guides.github.com/features/mastering-markdown/
 >>>>>>> a7b0cae0644d49c346357b30c5678bf606eb6bfd
 >>>>>>> 55aa90f4a480136c19dcf0ff2feb6a2732ada817
 >>>>>>> 1b287378c23cf3259ffe0b0da76670ed5ad460b1
+=======
+>>>>>>> b34685426b472993c37ab5db044930fe46a8cdf8
