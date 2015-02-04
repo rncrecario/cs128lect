@@ -23,7 +23,7 @@ These are the **people** whom we have collaborated
 
 1. **Erica Mae Yeban**
 2. *hakjshdkjnaskjndcxkjas*
-3. ##ANONG NANGYARE?
+3. *Carl Jaylord P. Tagle*
 
 
 *ITALICIZED DAW
