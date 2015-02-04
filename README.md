@@ -5,7 +5,7 @@ Note: We are trying our best to learn it asap.
 ##Developers
 The following are the developers of this project:
 
-	*Erica Mae Yeban
-	*Erica Mae Yeban
-	*Erica Mae Yeban
+	Erica Mae Yeban
+	Clark Adrian Adalia
+	No one
 
