@@ -1,10 +1,11 @@
-#CMSC 128
+#CMSC 128 Project - Learning Git
 
-This is a sample markdown file for CMSC 128
-*Note: This is so much fun! I know right!
+This README file presents what how to produce a markdown file.
+*Note: We are trying our best to learn it asap.
 
-##Collaborators
-These are the **people** whom we have collaborated
-1. Reg Recario
-2. Reg Recario
-3. Reg Recario
+##Developers
+The following are the developers of this project:
+* John Edward Y. Sta. Maria
+* Reg Recario
+* Froilan Tandoc
+
