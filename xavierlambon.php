@@ -1,5 +1,5 @@
 <?php
-yay ^^
+yay ^^ yay
 
 [AyanoTatemaya] 
 (previously known as HinagikuKatsura)
